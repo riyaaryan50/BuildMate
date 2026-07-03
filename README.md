@@ -53,4 +53,4 @@ A live demo of BuildMate is available [here](<https://build-mate-lemon.vercel.ap
 
 ## Author
 **Riya Aryan**  
-Feel free to connect with me on [GitHub](<https://github.com/riyaaryan50>) or [LinkedIn](<lhttps://www.linkedin.com/in/riyaaryan50/>).  
+Feel free to connect with me on [GitHub](<https://github.com/riyaaryan50>) or [LinkedIn](<https://www.linkedin.com/in/riyaaryan50/>).  
